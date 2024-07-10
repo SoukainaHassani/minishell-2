@@ -1,2 +1,5 @@
 # minishell-2
-Shell inspired
+reproduction d'un shell tsch
+
+# comment l'executer?
+``make`` puis ``./mysh``
